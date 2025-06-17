@@ -51,5 +51,4 @@ pip install Flask numpy pandas scikit-learn
 ## Example
 Enter a movie name (e.g., "Inception") and receive a list of 30 similar movies based on content features.
 
-## License
-This project is for educational purposes.
+
